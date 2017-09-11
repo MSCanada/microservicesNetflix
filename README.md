@@ -40,3 +40,12 @@ change to the docker-compose directory in your chapter 7 source code.  Issue the
    **docker-compose -f docker/common/docker-compose.yml up**
 
 If everything starts correctly you should see a bunch of Spring Boot information fly by on standard out.  At this point all of the services needed for the chapter code examples will be running.
+
+Running Steps::
+Run Eureka Server
+Run Zuul Server
+Run Conf Server
+Run Auth Server 
+Run Special Routes Server
+Run Licensing Server
+Run Organization Server
