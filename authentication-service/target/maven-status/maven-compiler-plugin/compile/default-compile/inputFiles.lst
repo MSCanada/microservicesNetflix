@@ -1,0 +1,14 @@
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/hystrix/ThreadLocalConfiguration.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/security/OAuth2Config.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/utils/UserContextInterceptor.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/Application.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/model/UserOrganization.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/repository/OrgUserRepository.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/config/ServiceConfig.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/utils/UserContextFilter.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/hystrix/ThreadLocalAwareStrategy.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/utils/UserContextHolder.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/InspectHeaderFilter.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/utils/UserContext.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/security/WebSecurityConfigurer.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/authentication-service/src/main/java/com/thoughtmechanix/authentication/hystrix/DelegatingUserContextCallable.java

@@ -1,0 +1,14 @@
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/utils/UserContextHolder.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/controllers/OrganizationServiceController.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/utils/UserContextFilter.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/repository/OrganizationRepository.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/utils/UserContext.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/Application.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/security/ResourceServerConfiguration.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/config/ServiceConfig.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/hystrix/ThreadLocalAwareStrategy.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/utils/UserContextInterceptor.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/model/Organization.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/services/OrganizationService.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/hystrix/DelegatingUserContextCallable.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/organization-service/src/main/java/com/thoughtmechanix/organization/hystrix/ThreadLocalConfiguration.java

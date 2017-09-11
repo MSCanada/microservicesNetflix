@@ -1,0 +1,9 @@
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/model/UserInfo.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/FilterUtils.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/model/AbTestingRoute.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/AuthenticationFilter.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/TrackingFilter.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/ResponseFilter.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/filters/SpecialRoutesFilter.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/config/ServiceConfig.java
+/home/msuhail/Downloads/source-code/final_code/spmia-chapter7-master/zuulsvr/src/main/java/com/thoughtmechanix/zuulsvr/ZuulServerApplication.java
